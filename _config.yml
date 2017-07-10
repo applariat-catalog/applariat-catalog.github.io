@@ -25,7 +25,7 @@ github_username:  applariatw3
 
 # Build settings
 markdown: kramdown
-theme: minima
+theme: jekyll-theme-slate
 gems:
   - jekyll-feed
 
